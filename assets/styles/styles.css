@@ -61,7 +61,8 @@ h1 {
   position: relative;
   height: 560px;
   background: url(https://source.unsplash.com/Dp4i7WJsNts/1920x1080) no-repeat center center;
-  background-size: cover;
+  background-size: cover;	
+  background-position : bottom right;
 }
 
 .sec-main::after {
